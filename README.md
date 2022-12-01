@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vkay47
-- 🌱 I’m currently learning Machine learning.
+- 🌱 I’m currently learning Python/Machine learning.
 - 👀 I love playing Video Games and that's about it.
 - You can reach me out on Discord. Vkay47#9446
 
